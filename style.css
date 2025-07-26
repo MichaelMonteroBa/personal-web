@@ -1,0 +1,22 @@
+img{border: solid 5px;}
+body{text-align: center;
+    background-color:rgb(94,92,84);
+color: white;
+}
+.redessociales {
+    color: rgb(94,92,84) ;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 10px;
+
+}
+a {
+    font-size: 20px;
+    font-style: italic;
+    color:rgb(170, 172, 164);
+}
+p{
+font-size: 20px;
+}
